@@ -1,6 +1,6 @@
 import pyperclip
  
-plaintext = 'PNRFNEPVCURE.'
+plaintext = 'MKOCKBMSZROB.'
  
 key = 10
  
