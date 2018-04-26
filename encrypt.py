@@ -2,7 +2,7 @@ import pyperclip
  
 plaintext = 'Caesar cipher.'
  
-key = 13
+key = 10
  
 mode = 'encrypt' 
  
