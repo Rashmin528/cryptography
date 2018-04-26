@@ -2,7 +2,7 @@ import pyperclip
  
 plaintext = 'PNRFNEPVCURE.'
  
-key = 13
+key = 10
  
 mode = 'decrypt' 
  
