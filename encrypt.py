@@ -1,6 +1,6 @@
 import pyperclip
  
-plaintext = 'Caesar cipher'
+plaintext = 'Caesar cipher.'
  
 key = 13
  
